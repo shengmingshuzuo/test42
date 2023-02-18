@@ -13,6 +13,7 @@ public class test1 {
         System.out.println("master test");
         System.out.println("new commit");
         System.out.println("push test");
+        System.out.println("中间放一个试一下");
         System.out.println("pull test");
     }
 }
