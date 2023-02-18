@@ -16,6 +16,6 @@ public class test1 {
         System.out.println("中间放一个试一下");
         System.out.println("pull test");
         System.out.println("听所版本低的话不能推送");
-        SYstem.out.println("显然是假的");
+        System.out.println("显然是假的");
     }
 }
